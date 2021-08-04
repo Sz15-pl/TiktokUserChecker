@@ -40,4 +40,4 @@ console.log(`-------------------------------------\n`);
 checkUser(getUserTiktok());
 setInterval(() => {
     checkUser(getUserTiktok());
-}, 1);
+}, 1000);
